@@ -54,3 +54,14 @@ body{
     min-width: 50px;
     max-height: fit-content;
 }
+
+#add-city {
+    color: #fff;
+    background-color: blue;
+    border: 3px solid #3399ff;
+    border-radius: 2px;
+}
+
+#weather-form {
+    display: inline;
+}
