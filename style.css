@@ -65,3 +65,48 @@ body{
 #weather-form {
     display: inline;
 }
+
+#current {
+    display:inline;
+}
+
+#no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#search-history {  
+    flex-direction: column;
+    background-color: #ffffff;
+    border-radius: 4px;
+    width: 200px;    
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.days {
+    display: inline-block;
+    padding: 5px 5px 5px 5px;  
+    color: #ffffff;
+    background-color: blue;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+.past-city {
+    text-align: left;
+    width: max-content;
+    text-decoration: none;
+    border: none;
+    color: black;
+    background-color: #FFFFFF;
+}
+
+.past-city {
+    text-align: left;
+    width: max-content;
+    text-decoration: none;
+    border: none;
+    color: black;
+    background-color: #FFFFFF;
+}
